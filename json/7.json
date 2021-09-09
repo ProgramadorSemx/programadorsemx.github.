@@ -1,0 +1,45 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "Estás perdiendo la cabeza ",
+    "respuesta": "You're losing your mind  ",
+    "incorrecta1": "You lose your mind ",
+    "incorrecta2": "You would lose your mind ",
+    "incorrecta3": "You're lost your mind ",
+    "imagen": "https://cdn.pixabay.com/photo/2012/02/29/12/19/ache-19005_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": "Has perdido las llaves",
+    "respuesta": "You have lost the keys",
+    "incorrecta1": "You have losed the keys",
+    "incorrecta2": "You lost the keys",
+    "incorrecta3": "You losed the keys",
+    "imagen": "https://cdn.pixabay.com/photo/2017/02/16/08/04/keys-2070722_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Perdiste el juego   ",
+    "respuesta": "You lost the match",
+    "incorrecta1": " You losed the match ",
+    "incorrecta2": "You have lost the match",
+    "incorrecta3": "You have lose  the match",
+    "imagen": "https://cdn.pixabay.com/photo/2020/08/05/15/26/game-5465779_960_720.png",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "No la perderás",
+    "respuesta": "You won't lose her",
+    "incorrecta1": "You aren't going to lose her  ",
+    "incorrecta2": "You wouldn't lose her",
+    "incorrecta3": "You don't lose her",
+    "imagen": "https://cdn.pixabay.com/photo/2014/04/02/17/05/couple-307924_960_720.png"
+}, {
+    "categoria": "Aply",
+    "pregunta": "No vas a perder nada",
+    "respuesta": "You aren't going to lose anything",
+    "incorrecta1": "You won't lose   anything ",
+    "incorrecta2": "You wouldn't lose  anything",
+    "incorrecta3": "You aren't going to lost  anything",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/23/14/37/blur-1853262_960_720.jpg"
+}]

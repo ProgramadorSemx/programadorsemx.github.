@@ -1,0 +1,46 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "Os estáis sentando en mi escritorio     ",
+    "respuesta": "You're sitting on my desk   ",
+    "incorrecta1": "You sit on my desk   ",
+    "incorrecta2": "You sitting on my desk",
+    "incorrecta3": "You sitting on my desk ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/05/02/21/49/laptop-336373_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": " Os habéis sentado en mi silla ",
+    "respuesta": "You have sat on my chair  ",
+    "incorrecta1": "You had sat on my chair",
+    "incorrecta2": "You have sit on my chair",
+    "imagen": "https://cdn.pixabay.com/photo/2017/08/06/01/49/table-2587598_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": " Os sentasteis con Robert el otro día      ",
+    "respuesta": "You sat with Robert the other day ",
+    "incorrecta1": "You had sat with Robert the other day  ",
+    "incorrecta2": "You have sit with Robert the other day",
+    "incorrecta3": "You have sat with Robert the other day  ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/07/31/11/21/people-2557396_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Os vais a sentar y vamos a hablar ",
+    "respuesta": "You're going to sit down and we're going to talk ",
+    "incorrecta1": "You will sit  down and we're going to talk ",
+    "incorrecta2": "You would sit  down and we're going to talk",
+    "incorrecta3": "You're going to sat  down and we're going to talk",
+    "imagen": "https://cdn.pixabay.com/photo/2016/03/09/09/22/meeting-1245776_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Os sentareis cerca de Maria y Mark",
+    "respuesta": "You will sit next to Mary and Mark ",
+    "incorrecta1": "  You would sit next to Mary and Mark ",
+    "incorrecta2": "You're going to sit next to Mary and Mark ",
+    "incorrecta3": "You will sat next to Mary and Mark ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/07/31/11/21/people-2557396_960_720.jpg",
+    "objectFit": "contain"
+}]

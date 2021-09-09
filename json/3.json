@@ -1,0 +1,47 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "Estás esperando muchos solicitantes para este trabajo    ",
+    "respuesta": "You are expecting a lot of applicants for this job  ",
+    "incorrecta1": "You expect a lot of applicants for this job ",
+    "incorrecta2": "You would expect a lot of applicants for this job",
+    "incorrecta3": "You expected a lot of applicants for this job",
+    "imagen": "",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": " Has esperado mucho de ella    ",
+    "respuesta": "You have  expected a lot from her ",
+    "incorrecta1": "You have expect a lot from her ",
+    "incorrecta2": "You expected a lot from her ",
+    "incorrecta3": "You expected a lot from her  ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/03/09/12/04/woman-1246267_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Esperaste conseguir mucha atención     ",
+    "respuesta": "You expected to get a lot of attention",
+    "incorrecta1": "You have expected  to get a lot of attention ",
+    "incorrecta2": "You did expect to get a lot of attention",
+    "incorrecta3": "You have expect to get a lot of attention  ",
+    "imagen": "https://cdn.pixabay.com/photo/2012/02/24/16/58/photographers-16724_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Esperarás encontrar a un compañero de piso",
+    "respuesta": "You will expect to find a roommate ",
+    "incorrecta1": "You would expect  to find a roommate ",
+    "incorrecta2": "You're going to expect  to find a roommate",
+    "incorrecta3": "You will expected to find a roommate",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/22/22/18/morning-1850893_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Vas a esperar demasiado de mi",
+    "respuesta": "You are going to expect too much from me ",
+    "incorrecta1": " You will expect too much from me  ",
+    "incorrecta2": "You would expect too much from me",
+    "incorrecta3": "You're going to expected too much from me  ",
+    "imagen": "https://res.cloudinary.com/twenty20/private_images/t_standard-fit/v1521838974/photosp/f100f171-4401-41ee-9d3e-23d2b0b34bcc/f100f171-4401-41ee-9d3e-23d2b0b34bcc.jpg",
+    "objectFit": "cover"
+}]

@@ -1,0 +1,37 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "No estáis compartiendo con tus amigos   ",
+    "respuesta": "You aren't sharing with your friends ",
+    "incorrecta1": "You don't share with your friends",
+    "incorrecta2": "You aren't share with your friends",
+    "incorrecta3": "You are sharing with your friends",
+    "imagen": "https://cdn.pixabay.com/photo/2020/05/19/05/51/offense-5189366_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": "No habéis compartido vuestra experiencia con nosotros",
+    "respuesta": "You haven't shared your experience with us",
+    "incorrecta1": "You didn't share your experience with us",
+    "incorrecta2": "You wouldn't share your experience with us ",
+    "incorrecta3": "You haven't share your experience with us ",
+    "imagen": "https://cdn.pixabay.com/photo/2021/02/12/10/33/psychologist-6008046_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Compartisteis el dinero con vuestro amigo    ",
+    "respuesta": "You shared the money with your friend",
+    "incorrecta1": " You shared the money with your friend ",
+    "incorrecta2": "You have shared he money with your friend",
+    "incorrecta3": "You share he money with your friend  ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/03/26/02/08/woman-3261425_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Nunca compartireis esa casa con nadie",
+    "respuesta": "You will never share that house with anyone  ",
+    "incorrecta1": "You would never share that house with anyone",
+    "incorrecta2": "You're never going to share  that house with anyone",
+    "incorrecta3": "You will never shared that house with anyone",
+    "imagen": "https://cdn.pixabay.com/photo/2017/09/09/18/25/living-room-2732939_960_720.jpg"
+}]

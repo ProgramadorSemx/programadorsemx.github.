@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego de preguntas</title>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+
+<body>
+    <style>
+        * {
+            transition: all 0.3s;
+        }
+        
+        body {
+            background: rgb(135, 160, 207);
+            padding: 0;
+            margin: 0;
+            text-align: center;
+            font-family: calibri;
+            font-size: 120%;
+        }
+        
+        .contenedor {
+            width: 98vw;
+            height: 97vh;
+            display: inline-flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        
+        .encabezado {
+            position: relative;
+            background: rgb(245, 245, 248);
+            min-width: 300px;
+            width: 70%;
+            max-width: 600px;
+            padding: 10px;
+            min-width: 250px;
+            margin-bottom: 0px;
+        }
+        
+        .categoria {
+            opacity: 0.3;
+            text-align: left;
+            display: none;
+        }
+        
+        .pregunta {
+            padding: 5px;
+            flex-wrap: wrap;
+            min-width: 200px;
+            margin: 0px;
+        }
+        
+        .imagen {
+            object-fit: cover;
+            height: 0px;
+            width: 0px;
+        }
+        
+        .btn {
+            background: rgba(35, 46, 196, 0.863);
+            width: 60%;
+            max-width: 550px;
+            padding: 10px;
+            margin: 5px;
+            cursor: pointer;
+            color: white;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        #btn-mas {
+            display: none;
+        }
+        
+        .container {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+        }
+        
+        .redes a,
+        .btn-mas label {
+            display: block;
+            text-decoration: none;
+            background: #cc2b2b;
+            color: #fff;
+            width: 55px;
+            height: 55px;
+            line-height: 55px;
+            text-align: center;
+            border-radius: 50%;
+            box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.4);
+            transition: all 500ms ease;
+        }
+        
+        .redes a:hover {
+            background: #fff;
+            color: #cc2b2b;
+        }
+        
+        .redes a {
+            margin-bottom: -15px;
+            opacity: 0;
+            visibility: hidden;
+        }
+        
+        #btn-mas:checked~.redes a {
+            margin-bottom: 10px;
+            opacity: 1;
+            visibility: visible;
+        }
+        
+        .btn-mas label {
+            cursor: pointer;
+            background: #f44141;
+            font-size: 23px;
+        }
+        
+        #btn-mas:checked~.btn-mas label {
+            transform: rotate(135deg);
+            font-size: 25px;
+        }
+        
+        #button-up:hover {
+            transform: scale(1.1);
+            border-color: rgba(0, 0, 0, 0.1);
+        }
+        
+        .btn:hover {
+            transform: scale(1.05);
+        }
+        
+        .numero {
+            position: absolute;
+            opacity: 0.3;
+            top: 10px;
+            right: 10px;
+        }
+        
+        .puntaje {
+            padding: 10px;
+            color: white;
+        }
+        
+        @media (max-width: 600px) {
+            .facet_sidebar {
+                display: none;
+            }
+        }
+    </style>
+
+    <div class="contenedor">
+        <div class="puntaje" id="puntaje"></div>
+        <div class="encabezado">
+            <div class="categoria" id="categoria">
+            </div>
+            <div class="numero" id="numero"></div>
+            <div class="pregunta" id="pregunta">
+            </div>
+            <img src="#" class="imagen" id="imagen">
+        </div>
+        <div class="btn" id="btn1" onclick="oprimir_btn(0)"></div>
+        <div class="btn" id="btn2" onclick="oprimir_btn(1)"></div>
+        <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
+        <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
+
+
+        <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/5a09ba2e9f.js" crossorigin="anonymous"></script>
+        </head>
+
+        <body>
+            <div class="container">
+                <input type="checkbox" id="btn-mas">
+                <div class="redes">
+                    <a href="https://www.delphisacademy.com/nivel-2/?playlist=a262fe9&video=f11e73d" class="fas fa-headphones-alt">
+                    </a>
+                    <a href="/html/6.html" class="fa fa-arrow-right"></a>
+                    <a href="/html/7.html" class="fa fa-arrow-left"></a>
+                    <a href="https://delphisacademy.com" class="fas fa-home"></a>
+                </div>
+                <div class="btn-mas">
+                    <label for="btn-mas" class="fa fa-plus"></label>
+                </div>
+            </div>
+            <script>
+                function F() {
+                    Swal.fire({
+                        position: 'top-end',
+                        icon: 'error',
+                        title: 'Para poder seguir el curso , deberás pasar a la parte de pago',
+                        showConfirmButton: false,
+                        timer: 1500
+                    })
+                }
+                uttonUp = document.getElementById("button-up");
+
+                window.onscroll = function() {
+
+                    var scroll = document.documentElement.scrollTop;
+
+                    if (scroll > -000) {
+                        buttonUp.style.transform = "scale(1)";
+                    } else if (scroll < -000) {
+                        buttonUp.style.transform = "scale(0)";
+                    }
+                }
+            </script>
+            <style>
+                a.btn {
+                    border: 40px;
+                    border-radius: 40px;
+                }
+            </style>
+
+            <script src="/Js/6.js"></script>
+    </div>
+
+    </body>
+
+</html>

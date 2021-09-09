@@ -1,0 +1,45 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "Esta hablando con su abuela ahora mismo ",
+    "respuesta": "He is speaking with his grandmother right now ",
+    "incorrecta1": "He speaks with his grandmother right now ",
+    "incorrecta2": "He would speak with his grandmother right now ",
+    "incorrecta3": "He speaking with his grandmother right now ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/14/04/10/grandmother-1822564_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": "¿Ha hablado con Julie del divorcio?",
+    "respuesta": "Has he spoken with Julie about the divorce?",
+    "incorrecta1": "Has he spoke with Julie about the divorce?",
+    "incorrecta2": "Did he spoke with Julie about the divorce?",
+    "incorrecta3": "Have he spoke with Julie about the divorce? ",
+    "imagen": "https://cdn.pixabay.com/photo/2019/11/20/20/02/couple-4641033_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Habló sobre el calentamiento global  ",
+    "respuesta": "He spoke about the global warming",
+    "incorrecta1": " He spoken  about the global warming",
+    "incorrecta2": "He speak  about the global warming",
+    "incorrecta3": "He has spoken about the global warming",
+    "imagen": "https://cdn.pixabay.com/photo/2017/04/23/19/17/climate-change-2254711_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Hablará con Betty después de clase",
+    "respuesta": "He will speak to Betty after class",
+    "incorrecta1": "He would speak to Betty after class  ",
+    "incorrecta2": "He's going to speak to Betty after class",
+    "incorrecta3": "He would spoke to Betty after class",
+    "imagen": "https://cdn.pixabay.com/photo/2021/02/18/12/03/people-6027028_960_720.jpg"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Va a hablar con la directora sobre su hijo",
+    "respuesta": "He's going to speak to the head teacher about his son",
+    "incorrecta1": "He would speak to the head teacher about his son ",
+    "incorrecta2": "He's going to spoke to the head teacher about his son",
+    "incorrecta3": "He will speak to the head teacher about his son",
+    "imagen": "https://cdn.pixabay.com/photo/2017/11/02/06/37/beautiful-2910260_960_720.jpg"
+}]

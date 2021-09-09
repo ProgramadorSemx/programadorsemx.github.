@@ -1,0 +1,46 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "¿Están terminando sus deberes?     ",
+    "respuesta": "Are they finishing ?   ",
+    "incorrecta1": "Do they finish?  their homework ",
+    "incorrecta2": "Would they finish their homework?",
+    "incorrecta3": "Did they finish their homework? ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/05/24/17/02/i-am-a-student-1412778_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": " Acaban de fregar los platos ",
+    "respuesta": "They have just finished washing the dishes  ",
+    "incorrecta1": "They had just finished washing the dishes",
+    "incorrecta2": "They has just finish washing the dishes",
+    "imagen": "https://cdn.pixabay.com/photo/2017/07/02/12/48/water-flow-2464417_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": " No terminaron los ejercicios      ",
+    "respuesta": "They didn't finish the exercises",
+    "incorrecta1": "They didn't finished  the exercises  ",
+    "incorrecta2": "They haven't finished  the exercises",
+    "incorrecta3": "They haven't finish  the exercises   ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/12/31/12/38/adult-3052244_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Terminarán en media hora",
+    "respuesta": "They will finish in half an hour  ",
+    "incorrecta1": "They would finish  in half an hour  ",
+    "incorrecta2": "They're going to finish  in half an hour ",
+    "incorrecta3": "They will finished  in half an hour ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Van a terminarlo mañana",
+    "respuesta": "They're going to finish it tomorrow ",
+    "incorrecta1": " They will finish it tomorrow     ",
+    "incorrecta2": "They would finish it tomorrow ",
+    "incorrecta3": "They're going to finished  it tomorrow  ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/01/14/10/56/people-1979261_960_720.jpg",
+    "objectFit": "contain"
+}]

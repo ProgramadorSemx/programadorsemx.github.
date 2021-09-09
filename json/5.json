@@ -1,0 +1,45 @@
+[{
+    "categoria": "Aply",
+    "pregunta": " No está hablando mucho estos días  ",
+    "respuesta": "He isn't talking too much this days ",
+    "incorrecta1": "He doesn't talk too much this days",
+    "incorrecta2": "He don't talk too much this days",
+    "incorrecta3": "He wouldn't talk too much this days",
+    "imagen": "https://cdn.pixabay.com/photo/2020/11/26/15/28/woman-5779323_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": "No me ha hablado desde que tuvimos esa discusión",
+    "respuesta": "He hasn't talked to me since we had that argument",
+    "incorrecta1": "He haven't talked to me since we had that argument",
+    "incorrecta2": "He didn't talk to me since we had that argument ",
+    "incorrecta3": "He didn't talked  to me since we had that argument",
+    "imagen": "https://cdn.pixabay.com/photo/2018/10/22/08/04/girls-3764702_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "No me habló durante la fiesta   ",
+    "respuesta": "He didn't talk to me during the party",
+    "incorrecta1": " He hasn't talked to me during the party  ",
+    "incorrecta2": "He didn't talked to me during the party",
+    "incorrecta3": "He doesn't talk to me during the party ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/08/01/20/52/people-2567915_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "No te hablará si nos ve juntos",
+    "respuesta": "He won't talk to you if he sees us together",
+    "incorrecta1": "He wouldn't talk  to you if he sees us together",
+    "incorrecta2": "He isn't going to talk  to you if he sees us together",
+    "incorrecta3": "He won't talked  to you if he sees us together",
+    "imagen": "https://cdn.pixabay.com/photo/2021/03/10/10/25/office-6084178_960_720.png"
+}, {
+    "categoria": "Aply",
+    "pregunta": "No va a hablar sobre eso",
+    "respuesta": "He isn't going to talk about that ",
+    "incorrecta1": "He wont't talk about that",
+    "incorrecta2": "He wouldn't about that",
+    "incorrecta3": "He isn't about that",
+    "imagen": "https://cdn.pixabay.com/photo/2021/02/12/10/33/psychologist-6008048_960_720.jpg"
+}]
